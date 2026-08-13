@@ -3,7 +3,7 @@ local Games = {
     {name = "Legends of Speed",         placeId = 3101667897,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
     {name = "Legends of Speed (Desert)",placeId = 3276265788,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
     {name = "Legends of Speed (Space)", placeId = 3232996272,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
-    {name = "Hyper Speed Runner",       placeId = 88933961678687,  url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/Moha-On-Top-x-Montaser/refs/heads/main/Hyper%20speed%20Runner.Lua"},
+    {name = "Hyper Speed Runner",       placeId = 88933961678687,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Hyper%20speed%20runner.lua"},
     {name = "Flick",                    placeId = 136801880565837,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Flick.lua"},
     {name = "Arsenal",                  placeId = 286090429,       url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Arsenal.lua"},
     {name = "Tower of Hell",            placeId = 1962086868,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Tower%20of%20hell.lua"},
