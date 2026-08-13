@@ -7,7 +7,7 @@ local Games = {
     {name = "Flick",                    placeId = 136801880565837,  url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/Moha-On-Top-x-Montaser/refs/heads/main/Flick.Lua"},
     {name = "Arsenal",                  placeId = 286090429,       url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Arsenal.lua"},
     {name = "Tower of Hell",            placeId = 1962086868,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Tower%20of%20hell.lua"},
-    {name = "Race Clicker",             placeId = 9285238704,      url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/Moha-On-Top-x-Montaser/refs/heads/main/Race%20clicker.Lua"},
+    {name = "Race Clicker",             placeId = 9285238704,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Race%20Clicker.lua"},
     {name = "MM2",                      placeId = 142823291,       url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Mm2%20(3).txt"},
     {name = "Chicken Farm",             placeId = 137233438285284, url = ""},
     {name = "Ninja Legends",            placeId = 3956818381,      url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Ninja%20Legends"},
