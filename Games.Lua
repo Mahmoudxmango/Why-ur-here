@@ -1,6 +1,6 @@
 local Games = {
-    {name = "Muscle Legends",           placeId = 3623096087,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Muscle%20legends.lua"},
-    {name = "Legends of Speed",         placeId = 3101667897,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
+    {name = "Muscle Legends",           placeId = 3623096087,      url = "https://github.com/Mahmoudxmango/Why-ur-here/blob/main/obfuscated_ml.txt"},
+    {name = "Legends of Speed",         placeId = 3101667897,      url = "https://github.com/Mahmoudxmango/Why-ur-here/blob/main/obfuscated_veloix_obfuscated_los_v2.5_4_obfuscated.lua.txt"},
     {name = "Legends of Speed (Desert)",placeId = 3276265788,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
     {name = "Legends of Speed (Space)", placeId = 3232996272,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
     {name = "Hyper Speed Runner",       placeId = 88933961678687,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Hyper%20speed%20runner.lua"},
