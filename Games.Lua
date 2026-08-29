@@ -11,6 +11,7 @@ local Games = {
     {name = "MM2",                      placeId = 142823291,       url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Mm2.lua"},
     {name = "Chicken Farm",             placeId = 137233438285284, url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Chicken%20Farm.lua"},
     {name = "Ninja Legends",            placeId = 3956818381,      url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Ninja%20Legends"},
+    {name = "Nigger",            placeId = 90438204717601,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/obfuscated_ml%20(1).txt"},
 }
 
 local currentPlaceId = game.PlaceId
