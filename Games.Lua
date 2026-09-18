@@ -1,5 +1,5 @@
 local Games = {
-    {name = "Muscle Legends",           placeId = 3623096087,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Montaser_obfuscated_MUSCLE_ML.lua_1_1_3%20(3).txt"},
+    {name = "Muscle Legends",           placeId = 3623096087,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Montaser_obfuscated_MUSCLE_ML.lua_1_1_4.txt"},
     {name = "Legends of Speed",         placeId = 3101667897,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Legends%20Of%20Speed.Lua"},
     {name = "Legends of Speed (Desert)",placeId = 3276265788,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/obfuscated_veloix_obfuscated_los_v2.5_4_obfuscated.lua.txt"},
     {name = "Legends of Speed (Space)", placeId = 3232996272,      url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/obfuscated_veloix_obfuscated_los_v2.5_4_obfuscated.lua.txt"},
@@ -11,7 +11,7 @@ local Games = {
     {name = "MM2",                      placeId = 142823291,       url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Mm2.lua"},
     {name = "Chicken Farm",             placeId = 137233438285284, url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Chicken%20Farm.lua"},
     {name = "Ninja Legends",            placeId = 3956818381,      url = "https://raw.githubusercontent.com/toxicmahmoudmontaser-dev/secret.lua/refs/heads/main/Ninja%20Legends"},
-    {name = "Nigger",            placeId = 90438204717601,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Montaser_obfuscated_MUSCLE_ML.lua_1_1_3%20(3).txt"},
+    {name = "ml new players",            placeId = 90438204717601,  url = "https://raw.githubusercontent.com/Mahmoudxmango/Why-ur-here/refs/heads/main/Montaser_obfuscated_MUSCLE_ML.lua_1_1_4.txt"},
 }
 
 local currentPlaceId = game.PlaceId
